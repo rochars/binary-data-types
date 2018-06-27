@@ -1,0 +1,12 @@
+*.log
+*.DS_Store
+
+# Development folders
+.nyc_output/
+test/
+
+# Development files
+.gitignore
+.jshintrc
+.npmignore
+rollup.config.js
